@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/library-wonder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "git@github.com:civ-clone/library-wonder.git",
   "keywords": [
     "typescript",
@@ -40,6 +40,8 @@
     "@civ-clone/base-wonder-setiprogram": "^0.1.0",
     "@civ-clone/base-wonder-shakespearestheatre": "^0.1.0",
     "@civ-clone/base-wonder-unitednations": "^0.1.0",
-    "@civ-clone/base-wonder-womenssuffrage": "^0.1.0"
+    "@civ-clone/base-wonder-womenssuffrage": "^0.1.0",
+    "@civ-clone/core-player": "^0.1.0",
+    "@civ-clone/core-wonder": "^0.1.0"
   }
 }
